@@ -34,5 +34,6 @@
 threadpool/.vs
 threadpool/Debug
 threadpool/ipch
+threadpool/threadpool/Debug
 *.db
 *.filter
